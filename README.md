@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @pangsitpedas
-- 👀 I’m interested in <something>
-- 🌱 I’m currently learning <nothing>
-- 📫 How to reach me <how>
+## Hi there
+Saya tertarik sedikit pemerograman 
